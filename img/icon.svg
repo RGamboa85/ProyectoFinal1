@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <linearGradient id="SVGID_1_" x1="1.252898" x2="-0.356524" y1="-0.086498" y2="1.16722">
+  <stop offset="0" stop-color="#FFFFFF"/>
+  <stop offset="1" stop-color="#000000"/>
+ </linearGradient>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="url(#SVGID_1_)" height="50" id="svg_1" width="50"/>
+  <text fill="#5E3F91" font-family="&#x27;PaintingWithChocolate'" font-size="12px" id="svg_2" transform="matrix(1 0 0 1 10.7977 26.2674)">RODE</text>
+  <g display="none" id="svg_5"/>
+ </g>
+</svg>
